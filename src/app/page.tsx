@@ -168,12 +168,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  {DATA.hackathons.length}+ hackathons. People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                  In my free time, I enjoy building side projects to explore new technologies and improve my development skills. I experiment with React.js, Next.js, and backend technologies, often creating tools, UI components, or automation scripts. I also contribute to open-source projects, enhance my design skills with Figma, and refine my problem-solving abilities through coding challenges. Beyond coding, I explore video editing and UI/UX design to expand my creative skills.
                 </p>
               </div>
             </div>
