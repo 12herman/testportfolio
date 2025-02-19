@@ -11,7 +11,7 @@ export const DATA = {
     "Web developer and AI storytelling YouTuber. I love creating digital experiences and sharing knowledge. Very active on LinkedIn.",
   summary:
     "I am a passionate full-stack web developer with React JS, Angular JS, Gatsby JS, and more expertise. I have worked at Adiv Technologies as a front-end developer and currently work at Qosteq as a full-stack developer. I am dedicated to creating user-friendly, high-quality web applications.",
-  avatarUrl: "/testportfolio/me.png",
+  avatarUrl: "/portfolio/me.png",
   skills: [
     "React",
     "TailwindCss",
@@ -85,7 +85,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Fullstack Developer",
-      logoUrl: "/testportfolio/qosteqlogo.png",
+      logoUrl: "/portfolio/qosteqlogo.png",
       start: "August 2023",
       end: "Present",
       description:
@@ -97,7 +97,7 @@ export const DATA = {
       href: "https://adiv.tech/",
       location: "Remote",
       title: "Frontend Developer",
-      logoUrl: "/testportfolio/Adiv-technologics.png",
+      logoUrl: "/portfolio/Adiv-technologics.png",
       start: "June 2022",
       end: "August 2023",
       description:
@@ -157,7 +157,7 @@ export const DATA = {
       school: "Tamilnadu cooperative",
       href: "https://www.tncu.tn.gov.in/",
       degree: "Diploma in Cooperative Management (D'Cop)",
-      logoUrl: "/testportfolio/tncu-logo.png",
+      logoUrl: "/portfolio/tncu-logo.png",
       start: "2020",
       end: "2021",
     },
@@ -165,7 +165,7 @@ export const DATA = {
       school: "Manonmaniam-Sundaranar-University",
       href: "https://www.msuniv.ac.in/",
       degree: "Bachelor's Degree (B.sc.Physics)",
-      logoUrl: "/testportfolio/Manonmaniam-Sundaranar-University.png",
+      logoUrl: "/portfolio/Manonmaniam-Sundaranar-University.png",
       start: "2016",
       end: "2019",
     },
@@ -209,7 +209,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/testportfolio/conexra-website-img.png",
+      image: "/portfolio/conexra-website-img.png",
       video:
         "",
     },
@@ -238,7 +238,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/testportfolio/free-bible-api.png",
+      image: "/portfolio/free-bible-api.png",
       video:
         "",
     },
@@ -275,7 +275,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/testportfolio/Youtubecopy-webapp.png",
+      image: "/portfolio/Youtubecopy-webapp.png",
       video:
         "",
     },
@@ -298,7 +298,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/testportfolio/Treandcut.jpg",
+      image: "/portfolio/Treandcut.jpg",
       video:
         "",
     },
@@ -351,7 +351,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/testportfolio/addinstech-web-img.png",
+      image: "/portfolio/addinstech-web-img.png",
       video:
         "",
     },
@@ -388,7 +388,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/testportfolio/ghili-ai.png",
+      image: "/portfolio/ghili-ai.png",
       video:
         "",
     },
@@ -417,7 +417,7 @@ export const DATA = {
         //   icon: <Icons.github className="size-3" />,
         // },
       ],
-      image: "/testportfolio/insightcounselings-web-img.png",
+      image: "/portfolio/insightcounselings-web-img.png",
       video: "",
     },
     
@@ -430,7 +430,7 @@ export const DATA = {
       description:
         "Developed a Svelte Steps Component in just 2 hours using HTML, Tailwind CSS, CSS, JavaScript, and the Svelte framework. This project demonstrates efficiency in rapid UI development, component-based architecture, and modern frontend technologies.",
       image:
-        "/testportfolio/Svelte.png",
+        "/portfolio/Svelte.png",
       mlh: "",
       links: [{
         title: "Github",
@@ -447,7 +447,7 @@ export const DATA = {
         "Developed a Loading Screen Component using HTML, CSS, and JavaScript, featuring smooth animations and optimized performance. This project highlights expertise in UI/UX design, CSS animations, and frontend development.",
       icon: "public",
       image:
-        "/testportfolio/loading-screen-loop.png",
+        "/portfolio/loading-screen-loop.png",
       links: [
         {
           title: "Website",
@@ -463,7 +463,7 @@ export const DATA = {
       description:
         "Developed an Analog Clock using HTML, CSS, and JavaScript, implementing real-time functionality with dynamic styling. This project demonstrates proficiency in DOM manipulation, CSS animations, and JavaScript timing functions.",
       image:
-        "/testportfolio/clock-project.png",
+        "/portfolio/clock-project.png",
       mlh: "",
       links: [{
         title: "Website",
