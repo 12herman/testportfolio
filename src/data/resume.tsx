@@ -85,7 +85,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Fullstack Developer",
-      logoUrl: "/qosteqlogo.png",
+      logoUrl: "/testportfolio/qosteqlogo.png",
       start: "August 2023",
       end: "Present",
       description:
@@ -97,7 +97,7 @@ export const DATA = {
       href: "https://adiv.tech/",
       location: "Remote",
       title: "Frontend Developer",
-      logoUrl: "/Adiv-technologics.png",
+      logoUrl: "/testportfolio/Adiv-technologics.png",
       start: "June 2022",
       end: "August 2023",
       description:
@@ -157,7 +157,7 @@ export const DATA = {
       school: "Tamilnadu cooperative",
       href: "https://www.tncu.tn.gov.in/",
       degree: "Diploma in Cooperative Management (D'Cop)",
-      logoUrl: "/tncu-logo.png",
+      logoUrl: "/testportfolio/tncu-logo.png",
       start: "2020",
       end: "2021",
     },
@@ -165,7 +165,7 @@ export const DATA = {
       school: "Manonmaniam-Sundaranar-University",
       href: "https://www.msuniv.ac.in/",
       degree: "Bachelor's Degree (B.sc.Physics)",
-      logoUrl: "/Manonmaniam-Sundaranar-University.png",
+      logoUrl: "/testportfolio/Manonmaniam-Sundaranar-University.png",
       start: "2016",
       end: "2019",
     },
@@ -209,7 +209,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/conexra-website-img.png",
+      image: "/testportfolio/conexra-website-img.png",
       video:
         "",
     },
@@ -238,7 +238,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/free-bible-api.png",
+      image: "/testportfolio/free-bible-api.png",
       video:
         "",
     },
@@ -275,7 +275,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Youtubecopy-webapp.png",
+      image: "/testportfolio/Youtubecopy-webapp.png",
       video:
         "",
     },
@@ -298,7 +298,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/Treandcut.jpg",
+      image: "/testportfolio/Treandcut.jpg",
       video:
         "",
     },
@@ -351,7 +351,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/addinstech-web-img.png",
+      image: "/testportfolio/addinstech-web-img.png",
       video:
         "",
     },
@@ -388,7 +388,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/ghili-ai.png",
+      image: "/testportfolio/ghili-ai.png",
       video:
         "",
     },
@@ -417,7 +417,7 @@ export const DATA = {
         //   icon: <Icons.github className="size-3" />,
         // },
       ],
-      image: "/insightcounselings-web-img.png",
+      image: "/testportfolio/insightcounselings-web-img.png",
       video: "",
     },
     
@@ -430,7 +430,7 @@ export const DATA = {
       description:
         "Developed a Svelte Steps Component in just 2 hours using HTML, Tailwind CSS, CSS, JavaScript, and the Svelte framework. This project demonstrates efficiency in rapid UI development, component-based architecture, and modern frontend technologies.",
       image:
-        "/Svelte.png",
+        "/testportfolio/Svelte.png",
       mlh: "",
       links: [{
         title: "Github",
@@ -447,7 +447,7 @@ export const DATA = {
         "Developed a Loading Screen Component using HTML, CSS, and JavaScript, featuring smooth animations and optimized performance. This project highlights expertise in UI/UX design, CSS animations, and frontend development.",
       icon: "public",
       image:
-        "/loading-screen-loop.png",
+        "/testportfolio/loading-screen-loop.png",
       links: [
         {
           title: "Website",
@@ -463,7 +463,7 @@ export const DATA = {
       description:
         "Developed an Analog Clock using HTML, CSS, and JavaScript, implementing real-time functionality with dynamic styling. This project demonstrates proficiency in DOM manipulation, CSS animations, and JavaScript timing functions.",
       image:
-        "/clock-project.png",
+        "/testportfolio/clock-project.png",
       mlh: "",
       links: [{
         title: "Website",
