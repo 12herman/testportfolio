@@ -11,7 +11,7 @@ export const DATA = {
     "Web developer and AI storytelling YouTuber. I love creating digital experiences and sharing knowledge. Very active on LinkedIn.",
   summary:
     "I am a passionate full-stack web developer with React JS, Angular JS, Gatsby JS, and more expertise. I have worked at Adiv Technologies as a front-end developer and currently work at Qosteq as a full-stack developer. I am dedicated to creating user-friendly, high-quality web applications.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/testportfolio/me.png",
   skills: [
     "React",
     "TailwindCss",
